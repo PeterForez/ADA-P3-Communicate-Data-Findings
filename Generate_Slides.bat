@@ -1,0 +1,1 @@
+jupyter nbconvert Ford_GoBike_System_Data_Part2.ipynb --to slides --template output-toggle.tpl --post serve
